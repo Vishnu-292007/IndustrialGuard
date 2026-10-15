@@ -46,3 +46,7 @@ This is a portfolio demonstration using simulated data. It does not connect to p
 - Store historical readings in a database
 - Add a trained anomaly-detection model
 - Implement authentication and monitoring history
+
+## Dashboard Preview
+
+![IndustrialGuard Dashboard](dashboard.png)
